@@ -1,0 +1,22 @@
+main section {
+    display: none;
+}
+footer a {
+    text-decoration: none;
+
+}
+
+a.active {
+    color: white;
+}
+
+section.active {
+    display: flex;
+}
+
+
+
+
+
+
+

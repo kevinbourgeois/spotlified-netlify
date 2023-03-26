@@ -1,0 +1,15 @@
+{
+  "name": "Spotlify - Best Music Ever",
+  "short_name": "Spotlify",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Basically a music app.",
+  "icons": [
+    {
+      "src": "./../public/logo_spotlify.webp",
+      "sizes": "48x48",
+      "type": "image/webp"
+    }
+    ]
+}

@@ -1,0 +1,38 @@
+header {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+
+header img {
+    width: 10vh;
+    height: 10vh;
+}
+
+body {
+    background-color: aqua;
+
+}
+
+section {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: blueviolet;
+    margin-top: auto;
+    padding: 5vw 5vh;
+}
+
+#search-bar {
+    display: none;
+}
+
+#search-bar.visible {
+    display: flex;
+}
