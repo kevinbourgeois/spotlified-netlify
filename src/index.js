@@ -87,6 +87,6 @@ window.addEventListener("offline", () => {
     alert("je suis offline")
 })
 
-navigator.serviceWorker.register(new URL('workerCacheFetched.js', import.meta.url))
+//navigator.serviceWorker.register(new URL('workerCacheFetched.js', import.meta.url))
 
 
